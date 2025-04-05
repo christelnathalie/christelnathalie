@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Christel — currently on the path to becoming a Data Engineer.
+- 👋 Hi, I’m Christel — currently on the path to becoming a Data Engineer  
 - 🎓 I hold a Master’s degree in Cultural Politics, with a specialization in Performing Arts  
-- 💡 I love to explore and develop how AI, technology, and data are reshaping the cultural landscape — and society as a whole  
+- 💡 I love to explore how AI, technology, and data are reshaping the cultural landscape — and society as a whole  
+- 🌍 I’m passionate about shaping and imagining fair, inclusive tech  
 - 🌱 Currently diving into my second favorite playground: data! I’m learning Python and Statistics for Data Science and Business Intelligence  
-- 😄 Pronouns: she/her  
+- 😄 Pronouns: she/her
 - 🧠 Motto: *Data science is just another form of dramaturgy.* 
 <!---
 christelnathalie/christelnathalie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
